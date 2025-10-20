@@ -11,6 +11,10 @@ I created an interactive dashboard to explore spending patterns, transaction typ
 - **Category Analysis:** Spending across categories like cinema, food, pharmacy, clothes, cosmetics, transport, and phone
 - **Quarterly Spend Trends:** Comparison of total spend across Q1–Q4
 
+  <img width="1056" height="794" alt="image" src="https://github.com/user-attachments/assets/59a6c6f0-173a-4c95-8e78-aacd0c132755" />
+
+
+
 ## 🛠 Tools Used
 - Revolut App (Excel export)
 - Data Cleaning in Excel
