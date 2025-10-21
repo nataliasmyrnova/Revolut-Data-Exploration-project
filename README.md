@@ -16,8 +16,7 @@ I created an interactive dashboard to explore spending patterns, transaction typ
 
 
 ## 🛠 Tools Used
-- Revolut App (Excel export)
-- Data Cleaning in Excel
+- Google Sheets
 - Google Looker Studio
 
 
