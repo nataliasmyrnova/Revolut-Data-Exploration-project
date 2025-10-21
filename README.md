@@ -11,7 +11,8 @@ I created an interactive dashboard to explore spending patterns, transaction typ
 - **Category Analysis:** Spending across categories like cinema, food, pharmacy, clothes, cosmetics, transport, and phone
 - **Quarterly Spend Trends:** Comparison of total spend across Q1–Q4
 
-  <img width="1056" height="794" alt="image" src="https://github.com/user-attachments/assets/59a6c6f0-173a-4c95-8e78-aacd0c132755" />
+  <img width="1143" height="861" alt="image" src="https://github.com/user-attachments/assets/9492e74a-d4d1-4df1-b836-f7f4c26b97a8" />
+
 
 
 
